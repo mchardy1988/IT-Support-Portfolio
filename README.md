@@ -1,4 +1,4 @@
-# IT Support Portfolio – Marc Hartmaier
+# IT Support Portfolio – Marc Andree Hartmaier
 
 This repository showcases real-world helpdesk simulations created as part of my training and client preparation for remote IT support roles.
 
