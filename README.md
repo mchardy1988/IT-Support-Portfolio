@@ -30,7 +30,7 @@ Includes automated response, user verification by email, and internal notes docu
 ### 🟠 Case 2: VPN Not Working – Connection Troubleshooting  
 Simulated incident of a VPN timeout issue. Includes basic triage steps, clarification request to user, and escalation preparation with internal documentation.
 
-📄 [PDF Summary](./demo-case-2-vpn-issue/Marc_Hartmaier_Helpdesk_Demo_Ticket_Portfolio_VPN_FINAL.pdf)  
+📄 [PDF Summary](./demo-case-2-vpn-issue/Marc_Hartmaier_Helpdesk_Demo_Ticket_Portfolio_VPN.pdf)  
 📁 [Case Folder](./demo-case-2-vpn-issue)
 
 ---
