@@ -22,7 +22,7 @@ I specialize in night-shift coverage (WITA timezone – UTC+8) and am available 
 A standard password reset request.  
 Includes automated response, user verification by email, and internal notes documenting the resolution process.
 
-📄 [PDF Summary](./demo-case-1-password-reset/Marc_Hartmaier_Helpdesk_Demo_Ticket_Portfolio.pdf)  
+📄 [PDF Summary](./demo-case-1-password-reset/Marc_Hartmaier_Helpdesk_Demo_Portfolio.pdf)  
 📁 [Case Folder](./demo-case-1-password-reset)
 
 ---
